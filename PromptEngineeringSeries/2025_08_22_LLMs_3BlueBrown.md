@@ -42,3 +42,6 @@ And that’s how your AI assistant becomes a thoughtful, intelligent companion!
 
 - Scaling laws → more data + bigger models = better performance.
 
+![1755830113313](https://github.com/user-attachments/assets/0b2a4631-4a79-40af-8db0-36dfe2f11964)
+
+
