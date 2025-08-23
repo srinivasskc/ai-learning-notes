@@ -49,3 +49,5 @@ Connect it to a user interface (like ChatGPT, Copilot, Bard, Gemini apps).
 GPT-4 → is the foundation model (an LLM).
 
 ChatGPT app → is the deployed AI model, which uses GPT-4 (and sometimes GPT-3.5) to interact with you.
+
+<img width="1024" height="1536" alt="ChatGPT Image Aug 23, 2025, 03_31_43 PM" src="https://github.com/user-attachments/assets/6792575c-bc85-4f27-bfa6-1435c354d2d9" />
