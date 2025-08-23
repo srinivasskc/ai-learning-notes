@@ -30,3 +30,7 @@ Mistral Medium 3 is an advanced Large Language Model (LLM) with state-of-the-art
 - **Mistral Medium 3** is both:
 A Large Language Model (LLM) (because it specializes in text/language tasks).
 A Foundation Model (because it’s broad, general-purpose, and adaptable — part of the foundation model family).
+
+<img width="1536" height="1024" alt="ChatGPT Image Aug 23, 2025, 03_13_08 PM" src="https://github.com/user-attachments/assets/e97e3911-53c4-493d-a19f-8be912c64998" />
+
+
